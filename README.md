@@ -10,9 +10,9 @@ Camera (Rx): https://www.edmundoptics.com/p/bfs-u3-16s2c-cs-usb3-blackflyreg-s-c
 
 
 
-TRANSMISSION: (example only for now)
-1. generate_message_bistream.py
-2. transmit.ino
+TRANSMISSION:
+1. message_to_bits_RS.py (Generates bitstream into > bits.txt)
+2. transmit.ino          
 
 RECEPTION (files in order of how they're called):
 1. message
