@@ -12,7 +12,7 @@ Camera (Rx): https://www.edmundoptics.com/p/bfs-u3-16s2c-cs-usb3-blackflyreg-s-c
 
 TRANSMISSION:
 1. message_to_bits_RS.py                       (Generates bitstream into > bits.txt)
-2. 1bitChannels_Tx.ino or 2bitChannels_Tx.ino  (For driving the LED array / transmitting bitstream)     
+2. 1bitChannels_Tx.ino / 2bitChannels_Tx.ino  (For driving the LED array / transmitting bitstream)     
 
 RECEPTION (files in order of how they're called):
 1. message
